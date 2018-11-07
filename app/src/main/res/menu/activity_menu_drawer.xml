@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_Combate"
+            android:title="▌ Combate" />
+        <item
+            android:id="@+id/nav_Tl9"
+
+            android:title="▌ TL9 al Amanecer" />
+        <item
+            android:id="@+id/nav_23pm"
+
+            android:title="▌ 23PM" />
+
+        <item
+            android:id="@+id/nav_programas"
+
+            android:title="  Programas" />
+
+        <item
+            android:id="@+id/nav_noticias"
+
+            android:title="  Noticias" />
+        <item
+            android:id="@+id/nav_espectaculos"
+
+            android:title="  Espectáculos" />
+        <item
+            android:id="@+id/nav_deportes"
+
+            android:title="  Deportes" />
+
+        <item
+            android:id="@+id/nav_comunidad"
+
+            android:title="  Comunidad" />
+
+
+<!--
+        <item
+            android:id="@+id/navigation_drawer_redes"
+            android:title=""
+            app:actionLayout="@layout/mnu_redes"
+            />
+-->
+
+
+<!--
+        <item
+            android:id="@+id/navigation_drawer_programas"
+            android:title="   Programas"
+            app:actionLayout="@layout/mnu_programas"/>
+-->
+    </group>
+
+</menu>

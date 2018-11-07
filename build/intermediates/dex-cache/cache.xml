@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/0c6513843b13ce5cead25bf29b81e142cb2c2087/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5d22a873f93271b4a339840ff29b3786258aac8">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_83dc245a168f3654287e1b379ebc8faee9534567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_843e788114c76a62398ae25aee3a8c22fb2ed56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/68c9b2ea65a7b0e21209695d4f097d3f9774395d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_b381f9f08ecbf25a28520c39a75e56cc19315758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/507ff1173ffcdc6bd96f5fa70da27058a72fc435/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_6f4ddd43dae4cbd3e0c4066b9fa3e07702c732b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a69f80a0f8787a100e52096303f73623f68efb1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/5d24a9103114a03ce3506dbd33fb7e16e014cc9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_85dbb395fe58a7ac61ee3d4aff6e43cc9a1320d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/_Desarrollo/Android/ElNueve/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_d14a7c18acdf493b5323a9adb44da098b10583ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/2b4898831c63bb672c0b990ebf6783c3ff65fb30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_d624f5e9e3fb5b3f2432a198ed8907c7a3f942ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/3ebe3d8a5e4693e5a43aa839a098db34118e2f24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_e7a086b76aedcdb6672641db79ea44eab0a6950f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yoshi/_Desarrollo/Android/ElNueve/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_d14a7c18acdf493b5323a9adb44da098b10583ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yoshi/.android/build-cache/86e7763647f39de1b7b116323b1dc8b82baec558/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/pre-dexed/debug/classes_49f42e5753df3ff58abea0d8cc8f88032c876993.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77a6f9f48b9f7d634af05da57a2fecb5462a6d24">
+        <dex dex="/home/yoshi/_Desarrollo/Android/ElNueve/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7fbb81c5d4fa3d954f546224f34375ab5c4a4a00/classes.dex" />
+    </item>
+
+</items>

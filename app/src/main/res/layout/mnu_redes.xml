@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/llmnuRedes"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:gravity="left"
+    >
+    <ImageView
+        android:id="@+id/iconFB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mnu_fb"
+        android:layout_margin="5dp"
+        />
+    <ImageView
+        android:id="@+id/iconTW"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mnu_twitter"
+        android:layout_margin="5dp"/>
+    <ImageView
+        android:id="@+id/iconYT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mnu_youtube"
+        android:layout_margin="5dp"/>
+    <ImageView
+        android:id="@+id/iconIG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mnu_instagram"
+        android:layout_margin="5dp"/>
+</LinearLayout>
